@@ -19,6 +19,8 @@
 
 ## Technologies Used
 * Javascript
+* binary-search-tree
+* graph-data-structuregraph-data-structure
 
 ## System Explanation
 * The dataset is stored within an IIFE (line 13) so that after creating the tree and graph
