@@ -10,8 +10,8 @@
 * run 
     >node index
 * type a query when prompted, ie) 
-    SENT (>.25)
-    harold.lutz@oceania.tyr=> SENT OR RECEIVED(> .15) => 3
+    * SENT (>.25)
+    * harold.lutz@oceania.tyr=> SENT OR RECEIVED(> .15) => 3
 * observe results in console
 
 * to exit press
