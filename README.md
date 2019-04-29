@@ -1,7 +1,7 @@
 # Pepsi Communication Dataset
 
 ## Goal
-* Create a commandline application that can
+* Create a command line application that can read from a communication data set
 
 ## How to Run
 * copy ocean.json into root directory
